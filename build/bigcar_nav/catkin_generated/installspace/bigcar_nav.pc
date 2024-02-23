@@ -1,0 +1,8 @@
+prefix=/home/qtz-robot/qts/install
+
+Name: bigcar_nav
+Description: Description of bigcar_nav
+Version: 0.1.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: roscpp rospy std_msgs message_runtime

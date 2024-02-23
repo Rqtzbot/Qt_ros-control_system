@@ -1,0 +1,2 @@
+bigcar_nav:ros_qt_demo-master
+-G CodeBlocks - Unix Makefiles -DCMAKE_BUILD_TYPE=Debug -DCATKIN_DEVEL_PREFIX=/home/qtz-robot/qts/devel -DCMAKE_INSTALL_PREFIX=/home/qtz-robot/qts/install

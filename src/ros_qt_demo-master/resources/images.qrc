@@ -1,0 +1,80 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/icon.png</file>
+        <file alias="error">error.png</file>
+        <file alias="right">right.png</file>
+        <file alias="IT">IT.png</file>
+        <file alias="it">it.png</file>
+        <file alias="itu">ITu.png</file>
+        <file alias="robot">robot.png</file>
+        <file alias="cmd">cmd.png</file>
+        <file alias="cmd2">cmd2.png</file>
+        <file alias="info">info.png</file>
+        <file alias="vel">vel.png</file>
+        <file alias="vel2">vel2.png</file>
+        <file alias="con">con.png</file>
+        <file alias="topic">topic.png</file>
+        <file alias="down">down.png</file>
+        <file alias="left">left.png</file>
+        <file alias="left2">left2.png</file>
+        <file alias="right2">right2.png</file>
+        <file alias="right3">right3.png</file>
+        <file alias="rise">rise.png</file>
+        <file alias="school">school.jpeg</file>
+        <file>images/Axes.png</file>
+        <file>images/Camera.png</file>
+        <file>images/DepthCloud.png</file>
+        <file alias="dispalys">images/Displays.svg</file>
+        <file>images/Effort.png</file>
+        <file>images/FluidPressure.png</file>
+        <file>images/FocusCamera.svg</file>
+        <file alias="grid">images/Grid.png</file>
+        <file>images/GridCells.png</file>
+        <file>images/Group.png</file>
+        <file>images/Help.svg</file>
+        <file>images/Illuminance.png</file>
+        <file>images/Image.png</file>
+        <file>images/Interact.png</file>
+        <file>images/InteractiveMarkers.png</file>
+        <file alias="laser">images/LaserScan.png</file>
+        <file alias="map">images/Map.png</file>
+        <file alias="marker">images/Marker.png</file>
+        <file>images/MarkerArray.png</file>
+        <file>images/Measure.svg</file>
+        <file>images/MoveCamera.png</file>
+        <file alias="odom">images/Odometry.png</file>
+        <file alias="path">images/Path.png</file>
+        <file>images/PointCloud.png</file>
+        <file>images/PointCloud2.png</file>
+        <file>images/PointStamped.png</file>
+        <file>images/Polygon.png</file>
+        <file alias="sendgoal">images/Pose.png</file>
+        <file alias="multnav">images/PoseArray.png</file>
+        <file>images/PoseWithCovariance.png</file>
+        <file>images/PublishPoint.svg</file>
+        <file>images/Range.png</file>
+        <file>images/RelativeHumidity.png</file>
+        <file>images/rightpng</file>
+        <file>images/RobotJoint.png</file>
+        <file>images/RobotLink.png</file>
+        <file>images/RobotLinkNoGeom.png</file>
+        <file alias="Show_Robot">images/RobotModel.png</file>
+        <file>images/Select.png</file>
+        <file alias="poseinit">images/SetGoal.png</file>
+        <file>images/SetInitialPose.png</file>
+        <file>images/Temperature.png</file>
+        <file alias="tf">images/TF.png</file>
+        <file alias="time">images/Time.svg</file>
+        <file>images/Tool Properties.png</file>
+        <file>images/Views.svg</file>
+        <file>images/WrenchStamped.png</file>
+        <file alias="option">images/options.png</file>
+        <file alias="setting2">images/setting2.png</file>
+        <file alias="operation">images/operiatopn.png</file>
+        <file alias="rqtz">rqtz.png</file>
+        <file alias="port">port.png</file>
+        <file alias="slect">images/select.png</file>
+        <file alias="imu">images/imu.png</file>
+        <file alias="school2">school.png</file>
+    </qresource>
+</RCC>
